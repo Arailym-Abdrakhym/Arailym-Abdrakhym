@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Apple,Google
 - 📫 How to reach me in gmail:abdrakhymarailym@gmail.com
-                              180103070@stu.sdu.edu.kz
-
+                              
  
 
 <!---
