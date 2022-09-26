@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arailym-Abdrakhym
 - 👀 I’m interested in ...a lot of things are related to IT
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Angular
 - 💞️ I’m looking to collaborate on Apple,Google
 - 📫 How to reach me in gmail:abdrakhymarailym@gmail.com
                               
